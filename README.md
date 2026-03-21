@@ -200,7 +200,7 @@ Include:
 
 
 ## Screenshots
-(See /docs for some example of dashboards)
+(See /dashboard_examples for some example of dashboards)
 
 
 ## License
